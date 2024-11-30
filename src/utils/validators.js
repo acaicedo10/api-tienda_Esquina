@@ -42,7 +42,31 @@ const loginSchema = Joi.object({
   }),
 });
 
+const veryfyEmailSchema = Joi.object({
+  token: Joi.string().trim().required().max(6).min(6).messages({
+    "string.empty": "Es obligatorio que ingrese el codigo.",
+    "any.required": "El codigo es requerido.",
+    "string.base": "El codigo debe ser una cadena de texto.",
+    "string.min": "El codigo debe tener 6 caracteres.",
+    "string.max": "El codigo debe tener 6 caracteres.",
+  }),
+});
+
+const cartSchema = Joi.object({
+  productId: Joi.string().required().messages({
+    "any.required": "El producto es requerido.",
+    "string.base": "El producto debe ser una cadena de texto.",
+  }),
+  quantity: Joi.number().min(1).required().messages({
+    "number.base": "La cantidad debe ser un número.",
+    "number.min": "Debes agregar al menos un producto.",
+    "any.required": "Debes agregar un producto.",
+  }),
+});
+
 module.exports = {
   registerSchema,
   loginSchema,
+  veryfyEmailSchema,
+  cartSchema,
 };

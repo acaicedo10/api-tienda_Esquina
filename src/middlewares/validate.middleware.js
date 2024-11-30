@@ -5,8 +5,9 @@ const validate = (schema, property) => {
     const { error } = schema.validate(req[property], { abortEarly: false });
     if (error) {
       const errors = error.details.reduce((acc, err) => {
-        const key = err.context.key;
-        acc[key] = err.message;
+        // const key = err.context.key;
+        // acc[key] = err.message;
+        acc = err.message;
         return acc;
       }, {});
       return ApiResponse.error(res, errors, 400);

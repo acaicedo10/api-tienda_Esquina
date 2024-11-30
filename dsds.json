@@ -1,0 +1,3451 @@
+[
+  {
+    "name": "Aromatel",
+    "slug": "aromatel",
+    "description": {
+      "short": "Aromatizante textil de alta calidad.",
+      "long": "Producto diseñado para ofrecer un aroma duradero en las prendas de vestir, dejando una sensación fresca y suave."
+    },
+    "price": {
+      "regular": 15000,
+      "sale": 13500,
+      "compareAt": 16000
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/AROMATEL.jpg",
+        "alt": "Aromatel producto aseo",
+        "isMain": true
+      }
+    ],
+    "variants": [
+      {
+        "name": "Tamaño",
+        "options": [
+          { "value": "500ml", "surcharge": 0, "stock": 30 },
+          { "value": "1L", "surcharge": 2000, "stock": 20 }
+        ]
+      }
+    ],
+    "specifications": [
+      { "name": "Fragancia", "value": "Lavanda" },
+      { "name": "Uso", "value": "Ropa y textiles" }
+    ],
+    "status": "published",
+    "tags": ["textil", "fragancia", "aseo"]
+  },
+  {
+    "name": "Clorox",
+    "slug": "clorox",
+    "description": {
+      "short": "Blanqueador multipropósito.",
+      "long": "Clorox ofrece un alto poder desinfectante y de limpieza, ideal para eliminar manchas difíciles y bacterias."
+    },
+    "price": {
+      "regular": 12000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/CLOROX.jpg",
+        "alt": "Clorox blanqueador",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      { "name": "Presentación", "value": "1 galón" },
+      { "name": "Uso", "value": "Hogar y superficies" }
+    ],
+    "status": "published",
+    "tags": ["blanqueador", "desinfectante", "aseo"]
+  },
+  {
+    "name": "Hit",
+    "slug": "hit",
+    "description": {
+      "short": "Delicioso jugo de frutas.",
+      "long": "Disfruta del auténtico sabor de las frutas con la bebida Hit, una excelente opción para refrescar tus días."
+    },
+    "price": {
+      "regular": 2500,
+      "sale": 2300,
+      "compareAt": null
+    },
+    "stock": 200,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/HIT.jpg",
+        "alt": "Hit jugo de frutas",
+        "isMain": true
+      }
+    ],
+    "variants": [
+      {
+        "name": "Sabor",
+        "options": [
+          { "value": "Naranja", "surcharge": 0, "stock": 100 },
+          { "value": "Manzana", "surcharge": 0, "stock": 100 }
+        ]
+      }
+    ],
+    "specifications": [
+      { "name": "Volumen", "value": "350ml" },
+      { "name": "Tipo", "value": "Bebida azucarada" }
+    ],
+    "status": "published",
+    "tags": ["jugo", "bebida", "refresco"]
+  },
+  {
+    "name": "Manzana Roja",
+    "slug": "manzana-roja",
+    "description": {
+      "short": "Fruta fresca y deliciosa.",
+      "long": "Manzanas rojas cuidadosamente seleccionadas para garantizar su frescura y sabor."
+    },
+    "price": {
+      "regular": 2000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 300,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/MANZANA.jpg",
+        "alt": "Manzana roja fruta",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      { "name": "Peso promedio", "value": "200g" },
+      { "name": "Origen", "value": "Nacional" }
+    ],
+    "status": "published",
+    "tags": ["fruta", "natural", "frescura"]
+  },
+  {
+    "name": "Pastas Concha",
+    "slug": "pastas-concha",
+    "description": {
+      "short": "Pastas con forma de concha.",
+      "long": "Ideales para preparar platos variados, las pastas con forma de concha ofrecen versatilidad y un delicioso sabor."
+    },
+    "price": {
+      "regular": 5000,
+      "sale": 4500,
+      "compareAt": 5200
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/PASTAS CONCHA.jpg",
+        "alt": "Pastas concha alimento",
+        "isMain": true
+      }
+    ],
+    "variants": [
+      {
+        "name": "Tamaño del paquete",
+        "options": [
+          { "value": "500g", "surcharge": 0, "stock": 80 },
+          { "value": "1kg", "surcharge": 1500, "stock": 40 }
+        ]
+      }
+    ],
+    "specifications": [
+      { "name": "Tipo", "value": "Pasta seca" },
+      { "name": "Tiempo de cocción", "value": "8-10 minutos" }
+    ],
+    "status": "published",
+    "tags": ["pasta", "cocina", "granos"]
+  },
+  {
+    "name": "Escoba Ancha",
+    "slug": "escoba-ancha",
+    "description": {
+      "short": "Escoba de limpieza general",
+      "long": "Escoba ancha y resistente para la limpieza de pisos y áreas grandes"
+    },
+    "price": {
+      "regular": 8000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 25,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/ESCOBA ANCHA.jpg",
+        "alt": "Escoba Ancha",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Escoba"
+      },
+      {
+        "name": "Ancho",
+        "value": "45 cm"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo"]
+  },
+  {
+    "name": "Escoba Repuesto",
+    "slug": "escoba-repuesto",
+    "description": {
+      "short": "Repuesto de escoba para limpieza",
+      "long": "Repuesto de escoba suave y resistente para reemplazar la cabeza de la escoba"
+    },
+    "price": {
+      "regular": 3500,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 35,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/ESCOBA REPUESTO.jpg",
+        "alt": "Escoba Repuesto",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Repuesto de escoba"
+      },
+      {
+        "name": "Material",
+        "value": "Fibra vegetal"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo"]
+  },
+  {
+    "name": "Escoba",
+    "slug": "escoba",
+    "description": {
+      "short": "Escoba de limpieza básica",
+      "long": "Escoba de fibra vegetal para limpieza de pisos y rincones"
+    },
+    "price": {
+      "regular": 6000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 20,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/ESCOBA.jpg",
+        "alt": "Escoba",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Escoba"
+      },
+      {
+        "name": "Material",
+        "value": "Fibra vegetal"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo"]
+  },
+  {
+    "name": "Jabón Líquido Ariel",
+    "slug": "jabon-liquido-ariel",
+    "description": {
+      "short": "Jabón líquido para ropa concentrado",
+      "long": "Jabón líquido Ariel para lavado de ropa en máquina o a mano. Fórmula concentrada para un lavado eficiente"
+    },
+    "price": {
+      "regular": 12000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/JABON LIQUIDO ARIEL.jpg",
+        "alt": "Jabón Líquido Ariel",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de ropa"
+      },
+      {
+        "name": "Marca",
+        "value": "Ariel"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "ropa"]
+  },
+  {
+    "name": "Jabón Líquido Coco",
+    "slug": "jabon-liquido-coco",
+    "description": {
+      "short": "Jabón líquido para manos con aroma a coco",
+      "long": "Jabón líquido de manos con aroma tropical a coco. Limpia y suaviza la piel"
+    },
+    "price": {
+      "regular": 9000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 30,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/JABON LIQUIDO COCO.jpg",
+        "alt": "Jabón Líquido Coco",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Aroma",
+        "value": "Coco"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de manos"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "higiene"]
+  },
+  {
+    "name": "Jabón Líquido",
+    "slug": "jabon-liquido",
+    "description": {
+      "short": "Jabón líquido para manos y cuerpo",
+      "long": "Jabón líquido de pH neutro, adecuado para manos y cuerpo. Limpia y suaviza la piel"
+    },
+    "price": {
+      "regular": 7500,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 40,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/JABON LIQUIDO.jpg",
+        "alt": "Jabón Líquido",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de manos y cuerpo"
+      },
+      {
+        "name": "pH",
+        "value": "Neutro"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "higiene"]
+  },
+  {
+    "name": "Lava Loza",
+    "slug": "lava-loza",
+    "description": {
+      "short": "Jabón líquido para lavado de vajilla",
+      "long": "Jabón líquido de alto poder desengrasante para lavar platos, ollas y utensilios de cocina"
+    },
+    "price": {
+      "regular": 8000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LAVALOZA.jpg",
+        "alt": "Lava Loza",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de vajilla"
+      },
+      {
+        "name": "Poder",
+        "value": "Desengrasante"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "cocina"]
+  },
+  {
+    "name": "Lava Loza 123",
+    "slug": "lava-loza-123",
+    "description": {
+      "short": "Jabón líquido para lavado de vajilla",
+      "long": "Jabón líquido formulado para un lavado eficiente de platos, ollas y utensilios de cocina"
+    },
+    "price": {
+      "regular": 9000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 45,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LAVALOZA123.jpg",
+        "alt": "Lava Loza 123",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de vajilla"
+      },
+      {
+        "name": "Características",
+        "value": "Fórmula eficiente"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "cocina"]
+  },
+  {
+    "name": "Lava Loza PQ",
+    "slug": "lava-loza-pq",
+    "description": {
+      "short": "Jabón líquido para lavado de vajilla en presentación pequeña",
+      "long": "Jabón líquido para lavado de platos, ollas y utensilios de cocina en presentación económica"
+    },
+    "price": {
+      "regular": 5000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 70,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LAVALOZAPQ.jpg",
+        "alt": "Lava Loza PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Jabón líquido"
+      },
+      {
+        "name": "Uso",
+        "value": "Lavado de vajilla"
+      },
+      {
+        "name": "Presentación",
+        "value": "Pequeña"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "cocina"]
+  },
+  {
+    "name": "Limpia Pisos Floral",
+    "slug": "limpia-pisos-floral",
+    "description": {
+      "short": "Limpiador de piso con aroma a flores",
+      "long": "Limpiador líquido para pisos y superficies duras. Deja un agradable aroma floral"
+    },
+    "price": {
+      "regular": 10000,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 35,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LIMPIA PISOS FLORAL.jpg",
+        "alt": "Limpia Pisos Floral",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Limpiador de piso"
+      },
+      {
+        "name": "Aroma",
+        "value": "Floral"
+      },
+      {
+        "name": "Uso",
+        "value": "Pisos y superficies duras"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "aseo", "hogar"]
+  },
+  {
+    "name": "Agua Saborizada",
+    "slug": "agua-saborizada",
+    "description": {
+      "short": "Agua con sabor a frutas.",
+      "long": "Esta agua saborizada es ideal para mantenerte hidratado con un toque de sabor fresco y frutal."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": 1.2,
+      "compareAt": 1.75
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/AGUA SABORISADA.jpg",
+        "alt": "Agua Saborizada",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Capacidad",
+        "value": "500 ml"
+      },
+      {
+        "name": "Sabor",
+        "value": "Mora"
+      }
+    ],
+    "status": "published",
+    "tags": ["bebidas", "hidratación", "saborizada"]
+  },
+  {
+    "name": "Agua",
+    "slug": "agua",
+    "description": {
+      "short": "Agua pura y refrescante.",
+      "long": "Agua purificada ideal para mantenerte hidratado en cualquier momento del día."
+    },
+    "price": {
+      "regular": 0.9,
+      "sale": null,
+      "compareAt": 1.0
+    },
+    "stock": 200,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/AGUA.jpg",
+        "alt": "Agua",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Capacidad",
+        "value": "500 ml"
+      }
+    ],
+    "status": "published",
+    "tags": ["bebidas", "hidratación", "agua"]
+  },
+  {
+    "name": "Big Cola 2L",
+    "slug": "big-cola-2l",
+    "description": {
+      "short": "Refresco de cola en formato 2 litros.",
+      "long": "Big Cola ofrece el refresco de cola más grande para compartir con amigos y familia."
+    },
+    "price": {
+      "regular": 1.75,
+      "sale": 1.5,
+      "compareAt": 2.0
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/BIGCOLA 2L.jpg",
+        "alt": "Big Cola 2L",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Formato",
+        "value": "2 litros"
+      }
+    ],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "big-cola"]
+  },
+  {
+    "name": "Big Cola",
+    "slug": "big-cola",
+    "description": {
+      "short": "Refresco de cola clásico.",
+      "long": "Disfruta del sabor único de Big Cola en cualquier momento del día."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.25
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/BIGCOLA.jpg",
+        "alt": "Big Cola",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "big-cola"]
+  },
+  {
+    "name": "Coca Cola Mega Duo",
+    "slug": "coca-cola-mega-duo",
+    "description": {
+      "short": "Paquete de 2 botellas de Coca Cola.",
+      "long": "Disfruta de la refrescante Coca Cola en un práctico paquete de dos botellas."
+    },
+    "price": {
+      "regular": 2.5,
+      "sale": 2.25,
+      "compareAt": 3.0
+    },
+    "stock": 75,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/COCACOLA MEGA DUO.jpg",
+        "alt": "Coca Cola Mega Duo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Formato",
+        "value": "2 Botellas de 2 L"
+      }
+    ],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "coca-cola"]
+  },
+  {
+    "name": "Coca Cola PQ",
+    "slug": "coca-cola-pq",
+    "description": {
+      "short": "Refresco de cola en formato pequeño.",
+      "long": "Coca Cola en un tamaño práctico para llevar a cualquier lugar."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.2
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/COCACOLA PQ.jpg",
+        "alt": "Coca Cola PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "coca-cola"]
+  },
+  {
+    "name": "Colombiana Mega",
+    "slug": "colombiana-mega",
+    "description": {
+      "short": "Refresco colombiano de sabor único.",
+      "long": "Colombiana es un refresco con un sabor único que refresca tu día con cada sorbo."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.25
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/COLOMBIANA MEGA.jpg",
+        "alt": "Colombiana Mega",
+        "isMain": true
+      }
+    ],
+    "variants": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "value": "1 L",
+            "surcharge": 0,
+            "stock": 30
+          },
+          {
+            "value": "2 L",
+            "surcharge": 0.5,
+            "stock": 20
+          }
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Ingredientes",
+        "value": "Agua, azúcar, gas carbónico, colorantes."
+      }
+    ],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "colombiana"]
+  },
+  {
+    "name": "Colombiana PQ",
+    "slug": "colombiana-pq",
+    "description": {
+      "short": "Colombiana en formato pequeño.",
+      "long": "Disfruta de la Colombiana en un tamaño condóneo ideal para llevar."
+    },
+    "price": {
+      "regular": 0.8,
+      "sale": null,
+      "compareAt": 1.0
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/COLOMBIANA PQ.jpg",
+        "alt": "Colombiana PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "colombiana"]
+  },
+  {
+    "name": "Del Valle PQ",
+    "slug": "del-valle-pq",
+    "description": {
+      "short": "Jugo Del Valle en formato pequeño.",
+      "long": "Del Valle ofrece su jugo natural en un tamaño práctico para llevar."
+    },
+    "price": {
+      "regular": 0.9,
+      "sale": null,
+      "compareAt": 1.1
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/DEL VALLE PQ.jpg",
+        "alt": "Del Valle PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "jugo", "del-valle"]
+  },
+  {
+    "name": "Del Valle",
+    "slug": "del-valle",
+    "description": {
+      "short": "Jugo natural Del Valle.",
+      "long": "Disfruta del auténtico sabor natural de las frutas con Del Valle."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.2
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/DEL VALLE.jpg",
+        "alt": "Del Valle",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "jugo", "del-valle"]
+  },
+  {
+    "name": "Duo Coca Cola",
+    "slug": "duo-coca-cola",
+    "description": {
+      "short": "Paquete doble de Coca Cola.",
+      "long": "Un paquete que incluye dos botellas de Coca Cola para compartir."
+    },
+    "price": {
+      "regular": 2.5,
+      "sale": 2.2,
+      "compareAt": 3.0
+    },
+    "stock": 90,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/DUO COCACOLA.jpg",
+        "alt": "Duo Coca Cola",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "coca-cola"]
+  },
+  {
+    "name": "Malta Mini",
+    "slug": "malta-mini",
+    "description": {
+      "short": "Malta en formato mini.",
+      "long": "Pequeña botella de Malta, ideal para el disfrute en cualquier lugar."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.2
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/MALTA MINI.jpg",
+        "alt": "Malta Mini",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "malta"]
+  },
+  {
+    "name": "Manzana 2L",
+    "slug": "manzana-2l",
+    "description": {
+      "short": "Refresco de manzana en formato 2 litros.",
+      "long": "Refresco de manzana en un tamaño familiar para disfrutar."
+    },
+    "price": {
+      "regular": 1.75,
+      "sale": null,
+      "compareAt": 2.0
+    },
+    "stock": 70,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/MANZANA 2L.jpg",
+        "alt": "Manzana 2L",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "manzana"]
+  },
+  {
+    "name": "Naranjada Mega",
+    "slug": "naranjada-mega",
+    "description": {
+      "short": "Refresco de naranja en formato grande.",
+      "long": "Naranjada refrescante ideal para los días calurosos."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": null,
+      "compareAt": 1.8
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/NARANJADA MEGA.jpg",
+        "alt": "Naranjada Mega",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "naranjada"]
+  },
+  {
+    "name": "Paca Cifrut",
+    "slug": "paca-cifrut",
+    "description": {
+      "short": "Paquete de Cifrut.",
+      "long": "Disfruta de un paquete de Cifrut, un refresco de sabor afrutado."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": null,
+      "compareAt": 1.75
+    },
+    "stock": 55,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/PACA CIFRUT.jpg",
+        "alt": "Paca Cifrut",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "cifrut"]
+  },
+  {
+    "name": "Postobon Duo",
+    "slug": "postobon-duo",
+    "description": {
+      "short": "Paquete de 2 Postobon.",
+      "long": "Paquete que incluye dos refrescos Postobon de diferentes sabores."
+    },
+    "price": {
+      "regular": 2.5,
+      "sale": null,
+      "compareAt": 3.0
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/POSTOBON DUO.jpg",
+        "alt": "Postobon Duo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "postobon"]
+  },
+  {
+    "name": "Power",
+    "slug": "power",
+    "description": {
+      "short": "Refresco energizante.",
+      "long": "Power es un refresco energizante que te dará un impulso cuando más lo necesites."
+    },
+    "price": {
+      "regular": 1.2,
+      "sale": null,
+      "compareAt": 1.5
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/POWER.jpg",
+        "alt": "Power",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "refresco", "energizante"]
+  },
+  {
+    "name": "Quatro PQ",
+    "slug": "quatro-pq",
+    "description": {
+      "short": "Refresco sabor piña en formato pequeño.",
+      "long": "Quatro es un refresco de sabor piña que viene en un tamaño ideal para llevar."
+    },
+    "price": {
+      "regular": 0.9,
+      "sale": null,
+      "compareAt": 1.0
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/QUATRO PQ.jpg",
+        "alt": "Quatro PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "quatro"]
+  },
+  {
+    "name": "Sixpack Pony",
+    "slug": "sixpack-pony",
+    "description": {
+      "short": "Paquete de 6 pequeñas botellas.",
+      "long": "Sixpack Pony trae seis pequeñas botellas, ideal para compartir en fiestas."
+    },
+    "price": {
+      "regular": 5.0,
+      "sale": null,
+      "compareAt": 6.0
+    },
+    "stock": 40,
+    "categories": ["6746fae53700312c9b0c0b49"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Bebidas/SIXPACK PONY.jpg",
+        "alt": "Sixpack Pony",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [],
+    "status": "published",
+    "tags": ["bebidas", "sixpack"]
+  },
+  {
+    "name": "Limpiador de Pisos Manzana",
+    "slug": "limpiador-pisos-manzana",
+    "description": {
+      "short": "Un limpiador efectivo para pisos con aroma a manzana.",
+      "long": "El limpiador de pisos de manzana proporciona una limpieza profunda con un fresco aroma a manzana que dejará su hogar reluciente. Elimina manchas y suciedad fácilmente, asegurando que sus pisos luzcan como nuevos."
+    },
+    "price": {
+      "regular": 25.99,
+      "sale": 19.99,
+      "compareAt": 29.99
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LIMPIA%20PISOS%20MANZANA.jpg",
+        "alt": "Limpiador de Pisos Manzana",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "1 L"
+      },
+      {
+        "name": "Aroma",
+        "value": "Manzana"
+      }
+    ],
+    "status": "published",
+    "tags": ["limpieza", "piso", "manzana", "aroma fresco"]
+  },
+  {
+    "name": "Limpido Multiusos",
+    "slug": "limpido-multiusos",
+    "description": {
+      "short": "Limpido es el aliado perfecto para la limpieza diaria.",
+      "long": "Con su fórmula única, Limpido multiusos puede ser utilizado en una variedad de superficies, garantizando una limpieza efectiva con un acabado brillante. Ideal para cocina y baño."
+    },
+    "price": {
+      "regular": 15.5,
+      "sale": 12.99,
+      "compareAt": 18.0
+    },
+    "stock": 200,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/LIMPIDO.jpg",
+        "alt": "Limpido Multiusos",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "500 ml"
+      },
+      {
+        "name": "Uso",
+        "value": "Multiusos"
+      }
+    ],
+    "status": "published",
+    "tags": ["multiusos", "limpieza", "brillante"]
+  },
+  {
+    "name": "Mr Musculo Desengrasante",
+    "slug": "mr-musculo-desengrasante",
+    "description": {
+      "short": "Desengrasante poderoso para cocina.",
+      "long": "Mr Musculo desengrasante es ideal para eliminar la grasa más difícil de las superficies de la cocina. Su fórmula especializada actúa rápidamente para facilitar la limpieza."
+    },
+    "price": {
+      "regular": 20.0,
+      "sale": 15.5,
+      "compareAt": 22.0
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/MR%20MUSCULO.jpg",
+        "alt": "Mr Musculo Desengrasante",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "750 ml"
+      },
+      {
+        "name": "Uso",
+        "value": "Desengrasante"
+      }
+    ],
+    "status": "published",
+    "tags": ["desengrasante", "cocina", "mr musculo"]
+  },
+  {
+    "name": "Quitamanchas Efectivo",
+    "slug": "quitamanchas-efectivo",
+    "description": {
+      "short": "Eliminador de manchas de todo tipo.",
+      "long": "Con nuestro quitamanchas efectivo, decir adiós a las manchas es fácil. Funciona en ropa y superficies, asegurando resultados visibles rápidamente."
+    },
+    "price": {
+      "regular": 15.0,
+      "sale": 11.99,
+      "compareAt": 16.5
+    },
+    "stock": 300,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/QUITAMANCHAS.jpg",
+        "alt": "Quitamanchas Efectivo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "250 ml"
+      },
+      {
+        "name": "Uso",
+        "value": "Ropa y superficies"
+      }
+    ],
+    "status": "published",
+    "tags": ["quitamanchas", "manchas", "efectivo"]
+  },
+  {
+    "name": "Recogedor de Basura",
+    "slug": "recogedor-basura",
+    "description": {
+      "short": "Práctico recogedor para limpieza.",
+      "long": "Este recogedor es ideal para recoger desechos de forma rápida y eficiente. Su diseño ergonómico facilita la limpieza diaria en el hogar."
+    },
+    "price": {
+      "regular": 8.0,
+      "sale": 6.5,
+      "compareAt": 9.0
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/RECOGEDOR.jpg",
+        "alt": "Recogedor de Basura",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Material",
+        "value": "Plástico"
+      },
+      {
+        "name": "Uso",
+        "value": "Recogida de desechos"
+      }
+    ],
+    "status": "published",
+    "tags": ["recogedor", "basura", "limpieza"]
+  },
+  {
+    "name": "Suavizante de Ropa Aroma Floral",
+    "slug": "suavizante-ropa-aroma-floral",
+    "description": {
+      "short": "Suavizante que deja tus prendas suaves y frescas.",
+      "long": "Nuestro suavizante de ropa con aroma floral reduce las arrugas y facilita el planchado, dejando cada prenda con un frescor que perdura. Ideal para toda la familia."
+    },
+    "price": {
+      "regular": 14.5,
+      "sale": 10.99,
+      "compareAt": 16.0
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/SUAVISANTE.jpg",
+        "alt": "Suavizante de Ropa Aroma Floral",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "1 L"
+      },
+      {
+        "name": "Aroma",
+        "value": "Floral"
+      }
+    ],
+    "status": "published",
+    "tags": ["suavizante", "ropa", "flora", "fresco"]
+  },
+  {
+    "name": "Trapera Repuesto",
+    "slug": "trapera-repuesto",
+    "description": {
+      "short": "Repuesto para traperas.",
+      "long": "Estos repuestos para traperas se adaptan a la mayoría de los marcos, asegurando una limpieza uniforme y eficaz. Perfecto para hogares y negocios."
+    },
+    "price": {
+      "regular": 4.5,
+      "sale": 3.5,
+      "compareAt": 5.0
+    },
+    "stock": 250,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/TRAPERA%20REPUESTO.jpg",
+        "alt": "Trapera Repuesto",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Material",
+        "value": "Microfibra"
+      },
+      {
+        "name": "Uso",
+        "value": "Repuesto para trapeador"
+      }
+    ],
+    "status": "published",
+    "tags": ["trapera", "repuesto", "microfibra"]
+  },
+  {
+    "name": "Trapero Blanco",
+    "slug": "trapero-blanco",
+    "description": {
+      "short": "Trapero de alta absorción para limpieza.",
+      "long": "Nuestro trapero blanco es perfecto para la limpieza del hogar, diseñado para absorber más agua y evitar dejar residuos. Ideal para todo tipo de suelos."
+    },
+    "price": {
+      "regular": 5.0,
+      "sale": 4.0,
+      "compareAt": 5.5
+    },
+    "stock": 300,
+    "categories": ["6746fae53700312c9b0c0b4b"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Aseo/TRAPERO%20BLANCO.jpg",
+        "alt": "Trapero Blanco",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Material",
+        "value": "Algodón"
+      },
+      {
+        "name": "Uso",
+        "value": "Trapear"
+      }
+    ],
+    "status": "published",
+    "tags": ["trapero", "blanco", "absorción"]
+  },
+  {
+    "name": "Costilla de Res",
+    "slug": "costilla-de-res",
+    "description": {
+      "short": "Deliciosa costilla de res, perfecta para asados.",
+      "long": "Costilla de res jugosa, ideal para barbacoas y comidas familiares. Se puede cocinar a la parrilla o al horno para obtener un sabor inigualable."
+    },
+    "price": {
+      "regular": 15.99,
+      "sale": 13.99,
+      "compareAt": 18.99
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4a"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Carnes/COSTILLA.jpg",
+        "alt": "Costilla de Res",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1.5 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Argentina"
+      }
+    ],
+    "status": "published",
+    "tags": ["res", "carnes", "asado"]
+  },
+  {
+    "name": "Espinazo de Cerdo",
+    "slug": "espinazo-de-cerdo",
+    "description": {
+      "short": "Espinazo de cerdo aromático y tierno.",
+      "long": "Disfruta de un espinazo de cerdo con un sabor característico. Es ideal para cocinar a fuego lento o en estofados."
+    },
+    "price": {
+      "regular": 12.49,
+      "sale": null,
+      "compareAt": 14.99
+    },
+    "stock": 30,
+    "categories": ["6746fae53700312c9b0c0b4a"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Carnes/ESPINAZO.jpg",
+        "alt": "Espinazo de Cerdo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1.0 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "México"
+      }
+    ],
+    "status": "published",
+    "tags": ["cerdo", "carnes", "estofado"]
+  },
+  {
+    "name": "Filetes de Pechuga de Pollo",
+    "slug": "filetes-pechuga-pollo",
+    "description": {
+      "short": "Filetes de pechuga de pollo frescos y saludables.",
+      "long": "Estos filetes de pechuga de pollo son perfectos para una comida rápida y saludable. Pueden ser salteados o asados con tus especias favoritas."
+    },
+    "price": {
+      "regular": 9.99,
+      "sale": 8.49,
+      "compareAt": 11.99
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b4a"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Carnes/FILETES PECHUGA.jpg",
+        "alt": "Filetes de Pechuga de Pollo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1.2 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "USA"
+      }
+    ],
+    "status": "published",
+    "tags": ["pollo", "carnes", "saludable"]
+  },
+  {
+    "name": "Carne Molida de Res",
+    "slug": "carne-molida-res",
+    "description": {
+      "short": "Carne molida de res, ideal para diversas recetas.",
+      "long": "Nuestra carne molida de res es fresca y versátil. Perfecta para hamburguesas, tacos o cualquier platillo que requiera carne molida."
+    },
+    "price": {
+      "regular": 10.99,
+      "sale": null,
+      "compareAt": 12.99
+    },
+    "stock": 70,
+    "categories": ["6746fae53700312c9b0c0b4a"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Carnes/MOLIDA.jpg",
+        "alt": "Carne Molida de Res",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1.0 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Argentina"
+      }
+    ],
+    "status": "published",
+    "tags": ["res", "carnes", "molida"]
+  },
+  {
+    "name": "Coliflor",
+    "slug": "coliflor",
+    "description": {
+      "short": "Coliflor fresca y saludable.",
+      "long": "La coliflor es una verdura de la familia de las crucíferas, conocida por su color blanco y su versatilidad en la cocina."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": 1.2,
+      "compareAt": 1.8
+    },
+    "stock": 100,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/COLIFLOR.jpg",
+        "alt": "Coliflor",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Blanco"
+      },
+      {
+        "name": "Origen",
+        "value": "Local"
+      }
+    ],
+    "status": "published",
+    "tags": ["vegetal", "saludable", "fresco"]
+  },
+  {
+    "name": "Lechuga",
+    "slug": "lechuga",
+    "description": {
+      "short": "Lechuga fresca y crocante.",
+      "long": "La lechuga es una hoja verde que se utiliza generalmente en ensaladas."
+    },
+    "price": {
+      "regular": 0.8,
+      "sale": 0.6,
+      "compareAt": 1.0
+    },
+    "stock": 150,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/LECHUGA.jpg",
+        "alt": "Lechuga",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Verde"
+      },
+      {
+        "name": "Tipo",
+        "value": "Romana"
+      }
+    ],
+    "status": "published",
+    "tags": ["vegetal", "fresco", "ensalada"]
+  },
+  {
+    "name": "Naranja",
+    "slug": "naranja",
+    "description": {
+      "short": "Naranja dulce y jugosa.",
+      "long": "La naranja es una fruta cítrica rica en vitamina C."
+    },
+    "price": {
+      "regular": 0.5,
+      "sale": 0.4,
+      "compareAt": 0.7
+    },
+    "stock": 200,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/NARANJA.jpg",
+        "alt": "Naranja",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Naranja"
+      },
+      {
+        "name": "Origen",
+        "value": "Tropical"
+      }
+    ],
+    "status": "published",
+    "tags": ["fruta", "cítrica", "fresca"]
+  },
+  {
+    "name": "Papa",
+    "slug": "papa",
+    "description": {
+      "short": "Papa fresca y nutritiva.",
+      "long": "La papa es un tubérculo muy versátil en la cocina, ideal para guisos, purés y frituras."
+    },
+    "price": {
+      "regular": 0.3,
+      "sale": 0.25,
+      "compareAt": 0.4
+    },
+    "stock": 300,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/PAPA.jpg",
+        "alt": "Papa",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Marrón"
+      },
+      {
+        "name": "Tipo",
+        "value": "Criolla"
+      }
+    ],
+    "status": "published",
+    "tags": ["vegetal", "tubérculo", "nutritivo"]
+  },
+  {
+    "name": "Pepino",
+    "slug": "pepino",
+    "description": {
+      "short": "Pepino fresco y crujiente.",
+      "long": "El pepino es conocido por su alto contenido de agua y es ideal para ensaladas."
+    },
+    "price": {
+      "regular": 0.6,
+      "sale": 0.5,
+      "compareAt": 0.8
+    },
+    "stock": 180,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/PEPINO.jpg",
+        "alt": "Pepino",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Verde"
+      },
+      {
+        "name": "Origen",
+        "value": "Local"
+      }
+    ],
+    "status": "published",
+    "tags": ["vegetal", "fresco", "crujiente"]
+  },
+  {
+    "name": "Pera",
+    "slug": "pera",
+    "description": {
+      "short": "Pera dulce y jugosa.",
+      "long": "La pera es una fruta dulce que se puede comer fresca o en postres."
+    },
+    "price": {
+      "regular": 0.9,
+      "sale": 0.7,
+      "compareAt": 1.1
+    },
+    "stock": 120,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/PERA.jpg",
+        "alt": "Pera",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Verde Amarillo"
+      },
+      {
+        "name": "Origen",
+        "value": "Local"
+      }
+    ],
+    "status": "published",
+    "tags": ["fruta", "dulce", "jugosa"]
+  },
+  {
+    "name": "Piña",
+    "slug": "pina",
+    "description": {
+      "short": "Piña fresca y tropical.",
+      "long": "La piña es una fruta tropical muy jugosa y dulce, perfecta para batidos y postres."
+    },
+    "price": {
+      "regular": 1.2,
+      "sale": 1.0,
+      "compareAt": 1.5
+    },
+    "stock": 80,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/PIÑA.jpg",
+        "alt": "Piña",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Amarillo"
+      },
+      {
+        "name": "Origen",
+        "value": "Tropical"
+      }
+    ],
+    "status": "published",
+    "tags": ["fruta", "tropical", "dulce"]
+  },
+  {
+    "name": "Plátano Maduro",
+    "slug": "platano-maduro",
+    "description": {
+      "short": "Plátano maduro dulce y nutritivo.",
+      "long": "El plátano maduro es una excelente fuente de energía y es ideal para postres."
+    },
+    "price": {
+      "regular": 0.4,
+      "sale": 0.3,
+      "compareAt": 0.5
+    },
+    "stock": 200,
+    "categories": ["674718273700312c9b0c0b52"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Frutas y verduras/PLATANO MADURO.jpg",
+        "alt": "Plátano Maduro",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Amarillo"
+      },
+      {
+        "name": "Origen",
+        "value": "Local"
+      }
+    ],
+    "status": "published",
+    "tags": ["fruta", "maduro", "nutritivo"]
+  },
+  {
+    "name": "Arroz Roa",
+    "slug": "arroz-roa",
+    "description": {
+      "short": "Arroz de alta calidad.",
+      "long": "Arroz Roa, ideal para acompañar tus comidas. Su calidad superior garantiza un sabor excepcional."
+    },
+    "price": {
+      "regular": 1200,
+      "sale": 1000,
+      "compareAt": 1500
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/ARROZ ROA.jpg",
+        "alt": "Arroz Roa",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Colombia"
+      }
+    ],
+    "status": "published",
+    "tags": ["arroz", "alimentación", "granos"]
+  },
+  {
+    "name": "Arroz",
+    "slug": "arroz",
+    "description": {
+      "short": "Arroz de grano largo y suelto.",
+      "long": "Este arroz es perfecto para toda ocasión, ofreciendo un sabor delicioso y una textura esponjosa."
+    },
+    "price": {
+      "regular": 900,
+      "sale": 750,
+      "compareAt": 1000
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/ARROZ.jpg",
+        "alt": "Arroz",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Brasil"
+      }
+    ],
+    "status": "published",
+    "tags": ["arroz", "granos"]
+  },
+  {
+    "name": "Arvejas",
+    "slug": "arvejas",
+    "description": {
+      "short": "Arvejas frescas y tiernas.",
+      "long": "Perfectas para guisos, sopas y como acompañante en tus platos principales."
+    },
+    "price": {
+      "regular": 1100,
+      "sale": 900,
+      "compareAt": 1300
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/ARVEJAS.jpg",
+        "alt": "Arvejas",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "500 g"
+      },
+      {
+        "name": "Origen",
+        "value": "Colombia"
+      }
+    ],
+    "status": "published",
+    "tags": ["arvejas", "legumbres", "granos"]
+  },
+  {
+    "name": "Atún Zenu",
+    "slug": "atun-zenu",
+    "description": {
+      "short": "Delicioso atún enlatado.",
+      "long": "Atún Zenu, fácil de preparar y perfecto para ensaladas y sándwiches."
+    },
+    "price": {
+      "regular": 3000,
+      "sale": 2500,
+      "compareAt": 3500
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/ATUN ZENU.jpg",
+        "alt": "Atún Zenu",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "160 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Enlatado"
+      }
+    ],
+    "status": "published",
+    "tags": ["atún", "conservas", "granos"]
+  },
+  {
+    "name": "Azúcar 5LB",
+    "slug": "azucar-5lb",
+    "description": {
+      "short": "Azúcar de caña natural.",
+      "long": "Azúcar de caña en presentación de 5 LB, perfecta para endulzar tus bebidas y postres."
+    },
+    "price": {
+      "regular": 4000,
+      "sale": 3500,
+      "compareAt": 4500
+    },
+    "stock": 30,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/AZUCAR 5LB.jpg",
+        "alt": "Azúcar 5LB",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Caña"
+      },
+      {
+        "name": "Peso",
+        "value": "5 LB"
+      }
+    ],
+    "status": "published",
+    "tags": ["azúcar", "endulzantes", "granos"]
+  },
+  {
+    "name": "Azúcar Éxito",
+    "slug": "azucar-exito",
+    "description": {
+      "short": "Azúcar refinada.",
+      "long": "Azúcar Éxito, ideal para todo tipo de preparaciones. Su textura fina se disuelve fácilmente."
+    },
+    "price": {
+      "regular": 2500,
+      "sale": 2300,
+      "compareAt": 2800
+    },
+    "stock": 40,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/AZUCAR EXITO.jpg",
+        "alt": "Azúcar Éxito",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Refinada"
+      },
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["azúcar", "endulzantes", "granos"]
+  },
+  {
+    "name": "Azúcar LB",
+    "slug": "azucar-lb",
+    "description": {
+      "short": "Azúcar en presentación de un libra.",
+      "long": "Apoya a tus recetas con Azúcar LB, de dulzor equilibrado, ideal para beber y cocinar."
+    },
+    "price": {
+      "regular": 1200,
+      "sale": 1100,
+      "compareAt": 1300
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/AZUCAR LB.jpg",
+        "alt": "Azúcar en LB",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Caña"
+      },
+      {
+        "name": "Peso",
+        "value": "1 LB"
+      }
+    ],
+    "status": "published",
+    "tags": ["azúcar", "endulzantes", "granos"]
+  },
+  {
+    "name": "Azúcar Morena",
+    "slug": "azucar-morena",
+    "description": {
+      "short": "Azúcar morena con melaza.",
+      "long": "Azúcar morena, ideal para recetas que requieren un toque de sabor caramelizado."
+    },
+    "price": {
+      "regular": 2000,
+      "sale": 1800,
+      "compareAt": 2200
+    },
+    "stock": 35,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/AZUCAR MORENA.jpg",
+        "alt": "Azúcar Morena",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Morena"
+      },
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["azúcar", "endulzantes", "granos"]
+  },
+  {
+    "name": "Frijol Cargamanto",
+    "slug": "frijol-cargamanto",
+    "description": {
+      "short": "Frijol nutritivo y delicioso.",
+      "long": "Frijol Cargamanto, ideal para preparar platos tradicionales y nutritivos."
+    },
+    "price": {
+      "regular": 1500,
+      "sale": null,
+      "compareAt": null
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/FRIJOL CARGAMANTO.jpg",
+        "alt": "Frijol Cargamanto",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Colombia"
+      }
+    ],
+    "status": "published",
+    "tags": ["frijol", "legumbres", "granos"]
+  },
+  {
+    "name": "Frijol Lima",
+    "slug": "frijol-lima",
+    "description": {
+      "short": "Frijol de grano grande.",
+      "long": "El frijol lima, versátil para múltiples preparaciones en la cocina."
+    },
+    "price": {
+      "regular": 1600,
+      "sale": 1400,
+      "compareAt": 1800
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/FRIJOL LIMA.jpg",
+        "alt": "Frijol Lima",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Perú"
+      }
+    ],
+    "status": "published",
+    "tags": ["frijol", "legumbres", "granos"]
+  },
+  {
+    "name": "Lentejas",
+    "slug": "lentejas",
+    "description": {
+      "short": "Lentejas ricas en proteínas.",
+      "long": "Lentejas, perfectas para ensaladas, sopas y guisos. Una excelente fuente de proteína."
+    },
+    "price": {
+      "regular": 1200,
+      "sale": 1000,
+      "compareAt": 1400
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/LENTEJAS.jpg",
+        "alt": "Lentejas",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Tipo",
+        "value": "Lentejas verdes"
+      }
+    ],
+    "status": "published",
+    "tags": ["lentejas", "legumbres", "granos"]
+  },
+  {
+    "name": "Maíz Lata",
+    "slug": "maiz-lata",
+    "description": {
+      "short": "Maíz tierno enlatado.",
+      "long": "Maíz en lata, ideal para enriquecer ensaladas y guisos con su dulce sabor."
+    },
+    "price": {
+      "regular": 800,
+      "sale": 700,
+      "compareAt": 900
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/MAIZ LATA.jpg",
+        "alt": "Maíz Lata",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "300 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Enlatado"
+      }
+    ],
+    "status": "published",
+    "tags": ["maíz", "vegetales", "granos"]
+  },
+  {
+    "name": "Maíz",
+    "slug": "maiz",
+    "description": {
+      "short": "Maíz seco de calidad.",
+      "long": "Maíz apto para hacer arepas, tortillas y otros platos tradicionales."
+    },
+    "price": {
+      "regular": 1000,
+      "sale": 900,
+      "compareAt": 1100
+    },
+    "stock": 90,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/MAIZ.jpg",
+        "alt": "Maíz",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "1 kg"
+      },
+      {
+        "name": "Origen",
+        "value": "Colombia"
+      }
+    ],
+    "status": "published",
+    "tags": ["maíz", "granos"]
+  },
+  {
+    "name": "Panela Cuadrada",
+    "slug": "panela-cuadrada",
+    "description": {
+      "short": "Panela natural en forma cuadrada.",
+      "long": "Ideal para endulzar bebidas y postres, manteniendo el sabor de la caña."
+    },
+    "price": {
+      "regular": 1800,
+      "sale": 1600,
+      "compareAt": 2000
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/PANELA CUADRADA.jpg",
+        "alt": "Panela Cuadrada",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "500 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Cuadrada"
+      }
+    ],
+    "status": "published",
+    "tags": ["panela", "endulzantes", "granos"]
+  },
+  {
+    "name": "Panela Porcionada",
+    "slug": "panela-porcionada",
+    "description": {
+      "short": "Panela en porciones individuales.",
+      "long": "Fácil de usar y almacenar, ideal para endulzar tu café o té."
+    },
+    "price": {
+      "regular": 2000,
+      "sale": 1800,
+      "compareAt": 2200
+    },
+    "stock": 40,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/PANELA PORCIONADA.jpg",
+        "alt": "Panela Porcionada",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "300 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Porcionada"
+      }
+    ],
+    "status": "published",
+    "tags": ["panela", "endulzantes", "granos"]
+  },
+  {
+    "name": "Panela",
+    "slug": "panela",
+    "description": {
+      "short": "Panela natural en bloque.",
+      "long": "Panela ideal para endulzar diversas preparaciones en la cocina."
+    },
+    "price": {
+      "regular": 1500,
+      "sale": 1300,
+      "compareAt": 1700
+    },
+    "stock": 70,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/PANELA.jpg",
+        "alt": "Panela",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "500 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Natural"
+      }
+    ],
+    "status": "published",
+    "tags": ["panela", "endulzantes", "granos"]
+  },
+  {
+    "name": "Pastas Tornillo",
+    "slug": "pastas-tornillo",
+    "description": {
+      "short": "Pasta en forma de tornillo.",
+      "long": "Perfecta para ensaladas, guisos y platos con salsa, absorbe todos los sabores."
+    },
+    "price": {
+      "regular": 3000,
+      "sale": 2500,
+      "compareAt": 3500
+    },
+    "stock": 90,
+    "categories": ["6746fae53700312c9b0c0b4f"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Granos/PASTAS TORNILLO.jpg",
+        "alt": "Pastas Tornillo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "500 g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Tornillo"
+      }
+    ],
+    "status": "published",
+    "tags": ["pasta", "granos"]
+  },
+  {
+    "name": "Huevo Blanco",
+    "slug": "huevo-blanco",
+    "description": {
+      "short": "Huevo fresco de gallina blanca.",
+      "long": "Este huevo blanco es ideal para todo tipo de preparaciones. Su sabor suave y fresco lo hacen perfecto para desayunos o repostería."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": 1.2,
+      "compareAt": 1.8
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/HUEVO BLANCO.jpg",
+        "alt": "Huevo Blanco",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "50g"
+      },
+      {
+        "name": "Color",
+        "value": "Blanco"
+      }
+    ],
+    "status": "published",
+    "tags": ["huevo", "blanco", "fresco", "desayuno"]
+  },
+  {
+    "name": "Huevo Codorniz",
+    "slug": "huevo-codorniz",
+    "description": {
+      "short": "Huevo pequeño de codorniz.",
+      "long": "Los huevos de codorniz son más pequeños, pero están llenos de sabor. Ideales para aperitivos y platos gourmet."
+    },
+    "price": {
+      "regular": 2.0,
+      "sale": null,
+      "compareAt": 2.5
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/HUEVO CODORNIZ.jpg",
+        "alt": "Huevo Codorniz",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "10g"
+      },
+      {
+        "name": "Color",
+        "value": "Mármol"
+      }
+    ],
+    "status": "published",
+    "tags": ["huevo", "codorniz", "gourmet", "aperitivo"]
+  },
+  {
+    "name": "Huevo Colorado",
+    "slug": "huevo-colorado",
+    "description": {
+      "short": "Huevo fresco de gallina colorada.",
+      "long": "Distinto a los huevos blancos, este huevo colorado tiene un sabor más intenso y se suele utilizar en diversas recetas típicas."
+    },
+    "price": {
+      "regular": 1.75,
+      "sale": 1.5,
+      "compareAt": 2.0
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/HUEVO COLORADO.jpg",
+        "alt": "Huevo Colorado",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "60g"
+      },
+      {
+        "name": "Color",
+        "value": "Colorado"
+      }
+    ],
+    "status": "published",
+    "tags": ["huevo", "colorado", "fresco", "recetas"]
+  },
+  {
+    "name": "Huevos x12",
+    "slug": "huevos-x12",
+    "description": {
+      "short": "Paquete de 12 huevos frescos.",
+      "long": "Este paquete incluye 12 huevos frescos ideales para familias o para aquellos que aman la cocina."
+    },
+    "price": {
+      "regular": 8.5,
+      "sale": 7.5,
+      "compareAt": 9.0
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/HUEVOS x12.jpg",
+        "alt": "Huevos x12",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Cantidad",
+        "value": "12 Huevos"
+      },
+      {
+        "name": "Tipo",
+        "value": "Frescos"
+      }
+    ],
+    "status": "published",
+    "tags": ["huevos", "paquete", "frescos", "cocina"]
+  },
+  {
+    "name": "Leche Entera",
+    "slug": "leche-entera",
+    "description": {
+      "short": "Leche fresca entera.",
+      "long": "La leche entera es nutritiva y cremosa, ideal para consumir sola o en preparado como café o cereales."
+    },
+    "price": {
+      "regular": 1.2,
+      "sale": 1.0,
+      "compareAt": 1.5
+    },
+    "stock": 200,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/LECHE ENTERA.jpg",
+        "alt": "Leche Entera",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "1L"
+      },
+      {
+        "name": "Grasa",
+        "value": "3.5%"
+      }
+    ],
+    "status": "published",
+    "tags": ["leche", "entera", "nutritiva"]
+  },
+  {
+    "name": "Quesito GD",
+    "slug": "quesito-gd",
+    "description": {
+      "short": "Queso de untar tipo GD.",
+      "long": "Delicioso quesito GD ideal para untar en desayunos y meriendas, aporta un sabor único a tus galletas y panes."
+    },
+    "price": {
+      "regular": 3.0,
+      "sale": null,
+      "compareAt": 3.5
+    },
+    "stock": 90,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/QUESITO GD.jpg",
+        "alt": "Quesito GD",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "200g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Untar"
+      }
+    ],
+    "status": "published",
+    "tags": ["queso", "gd", "untar", "snack"]
+  },
+  {
+    "name": "Quesito PQ",
+    "slug": "quesito-pq",
+    "description": {
+      "short": "Queso de untar tipo PQ.",
+      "long": "Quesito PQ, cremoso y suave, ideal para acompañar tus comidas o como base para tus recetas."
+    },
+    "price": {
+      "regular": 3.2,
+      "sale": 2.8,
+      "compareAt": 3.5
+    },
+    "stock": 85,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/QUESITO PQ.jpg",
+        "alt": "Quesito PQ",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "200g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Untar"
+      }
+    ],
+    "status": "published",
+    "tags": ["queso", "pq", "untar", "recetas"]
+  },
+  {
+    "name": "Queso Costeño",
+    "slug": "queso-costeno",
+    "description": {
+      "short": "Queso costeño fresco.",
+      "long": "Este queso es típicamente usado en la cocina costeña, ideal para recetas o para disfrutar solo."
+    },
+    "price": {
+      "regular": 4.0,
+      "sale": 3.5,
+      "compareAt": 4.5
+    },
+    "stock": 60,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/QUESO COSTEÑO.jpg",
+        "alt": "Queso Costeño",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "300g"
+      },
+      {
+        "name": "Origen",
+        "value": "Costeño"
+      }
+    ],
+    "status": "published",
+    "tags": ["queso", "costeño", "fresco"]
+  },
+  {
+    "name": "Queso Crema",
+    "slug": "queso-crema",
+    "description": {
+      "short": "Queso crema suave.",
+      "long": "El queso crema es perfecto para untar y como ingrediente en pasteles y tortas."
+    },
+    "price": {
+      "regular": 2.5,
+      "sale": null,
+      "compareAt": 3.0
+    },
+    "stock": 110,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/QUESO CREMA.jpg",
+        "alt": "Queso Crema",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "250g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Cremoso"
+      }
+    ],
+    "status": "published",
+    "tags": ["queso", "crema", "untar"]
+  },
+  {
+    "name": "Queso Mozzarella",
+    "slug": "queso-mozzarella",
+    "description": {
+      "short": "Queso mozzarella fresco.",
+      "long": "Perfecto para pizzas y ensaladas, la mozzarella brinda un sabor y textura únicos."
+    },
+    "price": {
+      "regular": 5.0,
+      "sale": 4.5,
+      "compareAt": 6.0
+    },
+    "stock": 70,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/QUESO MOZZARELLA.jpg",
+        "alt": "Queso Mozzarella",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso",
+        "value": "300g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Fresco"
+      }
+    ],
+    "status": "published",
+    "tags": ["queso", "mozzarella", "fresco"]
+  },
+  {
+    "name": "Yogurt Alpina",
+    "slug": "yogurt-alpina",
+    "description": {
+      "short": "Yogurt natural Alpina.",
+      "long": "Delicioso yogurt natural, perfecto para un desayuno saludable o como snack a cualquier hora."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": 1.2,
+      "compareAt": 1.8
+    },
+    "stock": 90,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/YOGURT ALPINA.jpg",
+        "alt": "Yogurt Alpina",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "200g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Natural"
+      }
+    ],
+    "status": "published",
+    "tags": ["yogurt", "alpina", "natural"]
+  },
+  {
+    "name": "Yogurt Regeneris",
+    "slug": "yogurt-regeneris",
+    "description": {
+      "short": "Yogurt natural Regeneris.",
+      "long": "Yogurt Regeneris elaborado a base de ingredientes naturales, ideal para una dieta balanceada."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": null,
+      "compareAt": 1.8
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/YOGURT REGENERIS.jpg",
+        "alt": "Yogurt Regeneris",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Contenido",
+        "value": "200g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Natural"
+      }
+    ],
+    "status": "published",
+    "tags": ["yogurt", "regeneris", "natural"]
+  },
+  {
+    "name": "Yogurt x6 Colanta",
+    "slug": "yogurt-x6-colanta",
+    "description": {
+      "short": "Paquete de 6 yogurts Colanta.",
+      "long": "Este paquete contiene 6 porciones individuales de yogurt Colanta, perfecto para toda la familia."
+    },
+    "price": {
+      "regular": 8.0,
+      "sale": 7.5,
+      "compareAt": 9.0
+    },
+    "stock": 80,
+    "categories": ["6746fae53700312c9b0c0b50"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Huevos y lacteos/YOGURT x6 COLANTA.jpg",
+        "alt": "Yogurt x6 Colanta",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Cantidad",
+        "value": "6x200g"
+      },
+      {
+        "name": "Tipo",
+        "value": "Natural"
+      }
+    ],
+    "status": "published",
+    "tags": ["yogurt", "colanta", "paquete", "natural"]
+  },
+  {
+    "name": "Arena Petys",
+    "slug": "arena-petys",
+    "description": {
+      "short": "Arena de alta calidad para mascotas.",
+      "long": "La arena Petys es ideal para gatos y proporciona un control de olores efectivo, manteniendo siempre una gran capacidad de absorción."
+    },
+    "price": {
+      "regular": 15.99,
+      "sale": 12.99,
+      "compareAt": 19.99
+    },
+    "stock": 100,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/ARENA PETYS.jpg",
+        "alt": "Arena Petys",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Blanco"
+      },
+      {
+        "name": "Peso",
+        "value": "5 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["arena", "gatos", "mascotas"]
+  },
+  {
+    "name": "Cat Maiz",
+    "slug": "cat-maiz",
+    "description": {
+      "short": "Arena de maíz biodegradable para gatos.",
+      "long": "Cat Maiz es una alternativa ecológica que ofrece alta absorción y un control natural de olores."
+    },
+    "price": {
+      "regular": 18.5,
+      "sale": 16.5,
+      "compareAt": 20.0
+    },
+    "stock": 150,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/CAT MAIZ.jpg",
+        "alt": "Cat Maiz",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "Amarillo"
+      },
+      {
+        "name": "Peso",
+        "value": "3 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["biodegradable", "gatos", "mascotas"]
+  },
+  {
+    "name": "Cuido Gato",
+    "slug": "cuido-gato",
+    "description": {
+      "short": "Productos especiales para el cuidado de gatos.",
+      "long": "Cuido Gato incluye una gama de productos que ayudan con la salud y el bienestar de tu felino."
+    },
+    "price": {
+      "regular": 29.99,
+      "sale": null,
+      "compareAt": 34.99
+    },
+    "stock": 50,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/CUIDO GATO.jpg",
+        "alt": "Cuido Gato",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Formato",
+        "value": "Tubos"
+      },
+      {
+        "name": "Cantidad",
+        "value": "10 unidades"
+      }
+    ],
+    "status": "published",
+    "tags": ["cuidado", "gatos", "salud"]
+  },
+  {
+    "name": "Mirringo Perros",
+    "slug": "mirringo-perros",
+    "description": {
+      "short": "Alimento premium para perros.",
+      "long": "Mirringo es un alimento nutritivo que promueve la salud y energía de tu perro, formulado con ingredientes de primera calidad."
+    },
+    "price": {
+      "regular": 22.5,
+      "sale": 19.5,
+      "compareAt": 25.0
+    },
+    "stock": 200,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/MIRRINGO PEROS.jpg",
+        "alt": "Mirringo Perros",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Tipo",
+        "value": "Croquetas"
+      },
+      {
+        "name": "Peso",
+        "value": "15 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["alimento", "perros", "premium"]
+  },
+  {
+    "name": "Pedigri",
+    "slug": "pedigri",
+    "description": {
+      "short": "Alimento balanceado para perros.",
+      "long": "Pedigri ofrece una dieta equilibrada para perros de todas las razas, contribuyendo a su salud y bienestar general."
+    },
+    "price": {
+      "regular": 23.0,
+      "sale": null,
+      "compareAt": 27.0
+    },
+    "stock": 120,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/PEDIGRI.jpg",
+        "alt": "Pedigri",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Formato",
+        "value": "Bolsas"
+      },
+      {
+        "name": "Peso",
+        "value": "20 kg"
+      }
+    ],
+    "status": "published",
+    "tags": ["alimento", "perros", "balanceado"]
+  },
+  {
+    "name": "Ringo",
+    "slug": "ringo",
+    "description": {
+      "short": "Snacks para perros.",
+      "long": "Ringo ofrece deliciosos snacks que son ideales como premio o para el entretenimiento de tu perro."
+    },
+    "price": {
+      "regular": 10.0,
+      "sale": 8.0,
+      "compareAt": 12.0
+    },
+    "stock": 300,
+    "categories": ["6746fae53700312c9b0c0b51"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Mascotas/RINGO.jpg",
+        "alt": "Ringo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Sabores",
+        "value": "Carne, pollo, pescado"
+      },
+      {
+        "name": "Cantidad",
+        "value": "150 g"
+      }
+    ],
+    "status": "published",
+    "tags": ["snacks", "perros", "mascotas"]
+  },
+  {
+    "name": "Chocorramo",
+    "slug": "chocorramo",
+    "description": {
+      "short": "Delicioso snack de galleta con crema y chocolate.",
+      "long": "Chocorramo es un bocadillo de galleta relleno de crema de chocolate, cubierto con una deliciosa cobertura de chocolate. Ideal para disfrutar a cualquier hora."
+    },
+    "price": {
+      "regular": 1.25,
+      "sale": 1.0,
+      "compareAt": 1.5
+    },
+    "stock": 50,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/CHOCORRAMO.jpg",
+        "alt": "Chocorramo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "30g"
+      }
+    ],
+    "status": "published",
+    "tags": ["snack", "chocolate", "galleta"]
+  },
+  {
+    "name": "Chokis",
+    "slug": "chokis",
+    "description": {
+      "short": "Galletas de chocolate con chispas.",
+      "long": "Chokis son unas galletas crujientes con trozos de chocolate que las hacen irresistibles. Un clásico en cualquier reunión."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": null,
+      "compareAt": 1.75
+    },
+    "stock": 100,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/CHOKIS.jpg",
+        "alt": "Chokis",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "200g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "chocolate", "snack"]
+  },
+  {
+    "name": "Club Social",
+    "slug": "club-social",
+    "description": {
+      "short": "Galletas saladas ideales para acompañar.",
+      "long": "Las galletas Club Social son perfectas para acompañar tus comidas o para disfrutar solas. Su textura crujiente y sabor salado las hacen muy populares."
+    },
+    "price": {
+      "regular": 1.0,
+      "sale": null,
+      "compareAt": 1.25
+    },
+    "stock": 75,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/CLUB SOCIAL.jpg",
+        "alt": "Club Social",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "300g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "salada", "snack"]
+  },
+  {
+    "name": "Festival",
+    "slug": "festival",
+    "description": {
+      "short": "Galletas rellenas de chocolate.",
+      "long": "Festival es una galleta crujiente con un delicioso relleno de crema de chocolate, ideal para compartir en familia o disfrutar solo."
+    },
+    "price": {
+      "regular": 1.2,
+      "sale": null,
+      "compareAt": 1.5
+    },
+    "stock": 30,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/FESTIVAL.jpg",
+        "alt": "Festival",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "40g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "chocolate", "snack"]
+  },
+  {
+    "name": "Galleta Ducales",
+    "slug": "galleta-ducal",
+    "description": {
+      "short": "Galleta de maíz crujiente y salada.",
+      "long": "Las Galletas Ducales son un clásico en las mesas. Su sabor único y textura crujiente las convierten en un acompañante ideal."
+    },
+    "price": {
+      "regular": 0.9,
+      "sale": null,
+      "compareAt": 1.0
+    },
+    "stock": 60,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GALLETA DUCALES.jpg",
+        "alt": "Galleta Ducales",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "150g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "salada", "snack"]
+  },
+  {
+    "name": "Galleta Mantequilla",
+    "slug": "galleta-mantequilla",
+    "description": {
+      "short": "Galletas deliciosas y suaves.",
+      "long": "Galletas de mantequilla, perfectas para disfrutar con una taza de té o café. Su textura suave y sabor inconfundible las hace únicas."
+    },
+    "price": {
+      "regular": 1.1,
+      "sale": null,
+      "compareAt": 1.45
+    },
+    "stock": 80,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GALLETA MANTEQUILLA.jpg",
+        "alt": "Galleta Mantequilla",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "200g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "mantequilla", "snack"]
+  },
+  {
+    "name": "Galleta Sal",
+    "slug": "galleta-sal",
+    "description": {
+      "short": "Galletas saladas, crujientes y deliciosas.",
+      "long": "Perfectas para picar entre horas, estas galletas saladas son ligeras y crujientes, ideales para acompañar dips o disfrutar solas."
+    },
+    "price": {
+      "regular": 1.05,
+      "sale": null,
+      "compareAt": 1.3
+    },
+    "stock": 90,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GALLETA SAL.jpg",
+        "alt": "Galleta Sal",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "150g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "salada", "snack"]
+  },
+  {
+    "name": "Galleta Saltin 3 Tacos",
+    "slug": "galleta-saltin-3-tacos",
+    "description": {
+      "short": "Galletas ideales para acompañar.",
+      "long": "Una deliciosa opción de galletas saladas perfectas para acompañar tus dips y aperitivos. Su textura crujiente es un must en cualquier reunión."
+    },
+    "price": {
+      "regular": 1.15,
+      "sale": null,
+      "compareAt": 1.4
+    },
+    "stock": 70,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GALLETA SALTIN 3 TACOS.jpg",
+        "alt": "Galleta Saltin 3 Tacos",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "250g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "salada", "snack"]
+  },
+  {
+    "name": "Galleta Saltin",
+    "slug": "galleta-saltin",
+    "description": {
+      "short": "Galletas saladas tradicionales.",
+      "long": "Galletas saladas que nunca pueden faltar en la mesa. Son perfectas para picar solas o con tus salsas favoritas."
+    },
+    "price": {
+      "regular": 0.95,
+      "sale": null,
+      "compareAt": 1.2
+    },
+    "stock": 85,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GALLETA SALTIN.jpg",
+        "alt": "Galleta Saltin",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "200g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "salada", "snack"]
+  },
+  {
+    "name": "Gansitos",
+    "slug": "gansitos",
+    "description": {
+      "short": "Deliciosos pastelitos rellenos.",
+      "long": "Gansitos son dulce y esponjoso pastelito relleno de crema de chocolate y cubierto de chocolate. Perfecto para un antojo."
+    },
+    "price": {
+      "regular": 1.3,
+      "sale": null,
+      "compareAt": 1.6
+    },
+    "stock": 55,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/GANSITOS.jpg",
+        "alt": "Gansitos",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "25g"
+      }
+    ],
+    "status": "published",
+    "tags": ["snack", "dulce", "chocolate"]
+  },
+  {
+    "name": "Natipan",
+    "slug": "natipan",
+    "description": {
+      "short": "Deliciosas galletas de maíz.",
+      "long": "Natipan ofrece un sabor a maíz fresco y crujiente en cada bocado. Ideal para acompañar con salsas o para disfrutar solas."
+    },
+    "price": {
+      "regular": 0.85,
+      "sale": null,
+      "compareAt": 1.05
+    },
+    "stock": 95,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/NATIPAN.jpg",
+        "alt": "Natipan",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "180g"
+      }
+    ],
+    "status": "published",
+    "tags": ["galleta", "maíz", "snack"]
+  },
+  {
+    "name": "Pan Ballena",
+    "slug": "pan-ballena",
+    "description": {
+      "short": "Pan de forma tradicional.",
+      "long": "El pan ballena es una opción clásica, esponjosa y deliciosa para acompañar tus desayunos o meriendas."
+    },
+    "price": {
+      "regular": 2.0,
+      "sale": null,
+      "compareAt": 2.5
+    },
+    "stock": 40,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/PAN BALLENA.jpg",
+        "alt": "Pan Ballena",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "400g"
+      }
+    ],
+    "status": "published",
+    "tags": ["pan", "desayuno", "meriendas"]
+  },
+  {
+    "name": "Pan Bimbo",
+    "slug": "pan-bimbo",
+    "description": {
+      "short": "Pan de molde suave y esponjoso.",
+      "long": "El pan Bimbo es perfecto para tus sandwiches y tostadas. Su sabor y frescura lo hacen ideal para cualquier hora."
+    },
+    "price": {
+      "regular": 1.5,
+      "sale": null,
+      "compareAt": 2.0
+    },
+    "stock": 120,
+    "categories": ["674720d03700312c9b0c0b53"],
+    "images": [
+      {
+        "url": "https://media-tienda-esquina-6546601.s3.amazonaws.com/imgs-product/Panaderia/PAN BIMBO.jpg",
+        "alt": "Pan Bimbo",
+        "isMain": true
+      }
+    ],
+    "variants": [],
+    "specifications": [
+      {
+        "name": "Peso neto",
+        "value": "500g"
+      }
+    ],
+    "status": "published",
+    "tags": ["pan", "molde", "sandwich"]
+  }
+]
